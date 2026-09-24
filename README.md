@@ -40,3 +40,8 @@ dotnet run --project RepoContext.Cli -- export --format=claude
 ## Contributing
 
 Feel free to open issues or submit pull requests. I built this to solve my own pain point with AI context windows, and I hope it helps you too!
+
+---
+
+## Tags & Keywords for SEO
+*AI Codebase Context Generator, Model Context Protocol (MCP) C# .NET, Claude Code Context Tool, Cursor AI Codebase Indexing, Github Copilot Context Pack, Codex Code Understanding, Open-Source Developer Tools C#, Roslyn Syntax Tree Parsing, Tree-sitter Codebase Scanner, Automate AI Context Window, AI Assistant Codebase Integration, .NET 10 Developer CLI, Generate Project Markdown for AI, Software Architecture AI Parser.*
