@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="RepoContext.Cli/RepoContext.Cli.csproj" />
+  <Project Path="RepoContext.Core/RepoContext.Core.csproj" />
+  <Project Path="RepoContext.Tests/RepoContext.Tests.csproj" />
+</Solution>
